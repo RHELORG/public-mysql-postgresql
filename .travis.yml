@@ -1,0 +1,6 @@
+os: linux
+dist: rhel8
+arch: amd64
+services:
+     - mysql
+     - postgresql
